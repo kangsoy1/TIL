@@ -1,0 +1,6 @@
+1. JAVA
+1) 완전탐색
+https://programmers.co.kr/learn/courses/30/lessons/42840?language=java
+
+역시 무식하게 푸는게 가장 잘 맞는듯
+있어보인다고 해서 더 성능이 좋은건 아니었다

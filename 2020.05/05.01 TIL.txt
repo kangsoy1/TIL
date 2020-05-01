@@ -1,0 +1,4 @@
+1. JAVA
+1) 문자열
+int를 string으로 Integer.toString(i);
+string을 int로 Integer.parseInt(i);
